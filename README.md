@@ -1,5 +1,5 @@
 # art
-Pieces of creation, everything unlicensed or copyhearted if you wish. Whatever you wish. Make art, not law.
+Hopefully to some extent creative pieces, everything unlicensed or copyhearted if you wish. Whatever you wish. Make art, not law.
 
 http://copyheart.org/
 
