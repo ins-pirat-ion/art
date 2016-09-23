@@ -1,9 +1,8 @@
 Gándhí (♡ 2016) - Neodbytný refrén
 
 I:
-     /Ebmaj  Ebmaj  Ebmaj Ebmaj  F9     F9
-     G    G    G    G    B    A    G    G/D  G    G    G    G    Emi  Emi  Emi  Emi
-     G    G    G    G    B    A    G    G/D  G    G    G    G    Emi  Emi  Emi  Emi
+     /Ebmaj Ebmaj Ebmaj  F9        F9
+ [:  G    G    G    G    B    A    G    G/D  G    G    G    G    Emi  Emi  Emi  Emi :]
 
 R1:
    G             B A G  G/D    G             Emi
