@@ -1,5 +1,4 @@
-Život tě baví
-Gándhí  2016
+Gándhí  (♡ 2016) - Život tě baví
 
 Orig: D
 

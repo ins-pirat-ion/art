@@ -1,5 +1,4 @@
-Pocoucovské štíty - Gándhí
-8. května 2016
+Gándhí (♡ 8. května 2016) - Pocoucovské štíty 
 
 I1: (whistle)
 Emaj                   C#9     C9  C#9   E9                     Aadd2
