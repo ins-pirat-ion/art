@@ -68,4 +68,3 @@ Outro:
     Bmaj            C6add2         D9           D                                   (slow)
     Bmaj            C9             Ami7         D                                          D5(flag)
 𝅘𝅥𝅮                                                   D  Cum  H  Aum  G  A     G  F#um  G  A
-
