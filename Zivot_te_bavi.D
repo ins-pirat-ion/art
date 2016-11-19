@@ -4,11 +4,11 @@ Orig: D
 
 I:
     A5(flag)
-𝅘𝅥𝅮                   D  Cum  H  Aum  G  A                         G  F#um  G
+♪                   D  Cum  H  Aum  G  A                         G  F#um  G
     D      /F#      G6      A7sus4              D      /F#       G6       G  A7
     D      /F#      G6      A7sus4              D      /F#       G6       G  A7
     B6                                          Cadd2                     C9   (slow)
-𝅘𝅥𝅮                                                        F# F# F#   Eum   D  A#
+♪                                                        F# F# F#   Eum   D  A#
 
     D      /F#      G6      A7sus4              D      /F#       G6       G  A7
     D       /F#   G6     A7sus4                 D       /F#  G6   A7sus4
@@ -42,7 +42,7 @@ R:
 
 Solo 2x:
     Emi                       H9+               Emi                       D
-𝅘𝅥𝅮   E  A  H  D  E±     H                        E  A  H  D  E  E±     D
+♪   E  A  H  D  E±     H                        E  A  H  D  E  E±     D
 
 R:
     Emi                       Hmi7              Emi           F#mi         (slow)  A67       A7
@@ -54,7 +54,7 @@ I:
     D      /F#      G6      A7sus4              D      /F#       G6       G  A7
     D      /F#      G6      A7sus4              D      /F#       G6       G  A7
     B6                                          Cadd2                     C9
-𝅘𝅥𝅮                                                        F# F# F#   Eum   D  A#
+♪                                                        F# F# F#   Eum   D  A#
 
     D      /F#      G6      A7sus4              D      /F#       G6       G  A7
     D         /F#      G6     A7sus4            D       /F#          G6     A7sus4
@@ -67,4 +67,4 @@ Outro:
     D      /F#      G6      A7sus4              D      /F#       G6       G  A7
     Bmaj            C6add2         D9           D                                   (slow)
     Bmaj            C9             Ami7         D                                          D5(flag)
-𝅘𝅥𝅮                                                   D  Cum  H  Aum  G  A     G  F#um  G  A
+♪                                                   D  Cum  H  Aum  G  A     G  F#um  G  A
